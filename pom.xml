@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fi.tuni</groupId>
-	<artifactId>myblog</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>4ever-alone</artifactId>
+	<version>r1</version>
 	<name>myblog</name>
 	<description>Demo project for Spring Boot</description>
 
